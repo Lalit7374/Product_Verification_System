@@ -190,7 +190,7 @@ const SellProductSeller = () => {
       document.getElementById("qr-reader-results").innerText = `Scanned: ${decodedText}`;
 
       try {
-        const response = await axios.post("http://localhost:5000/api/verify-product", {
+        const response = await axios.post("https://product-verification-system.onrender.com/api/verify-product", {
           productSN: decodedText,
         });
 
