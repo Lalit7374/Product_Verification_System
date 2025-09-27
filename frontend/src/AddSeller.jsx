@@ -221,7 +221,7 @@ const AddSeller = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
     try {
-      await axios.post("http://localhost:5000/api/sellers", formData);
+      await axios.post("https://product-verification-system.onrender.com/api/sellers", formData);
 
       // ✅ Show success popup
       Swal.fire({
