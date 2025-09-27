@@ -84,7 +84,7 @@ const ConsumerHistory = () => {
 
   const getProducts = async () => {
     try {
-      const response = await axios.post("http://localhost:5000/api/consumer/history", {
+      const response = await axios.post("https://product-verification-system.onrender.com/api/consumer/history", {
         consumerCode,
       });
 
