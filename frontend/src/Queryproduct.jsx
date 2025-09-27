@@ -102,7 +102,7 @@ const Queryproduct = () => {
 
   const handleSubmit = async () => {
     try {
-      const response = await fetch("http://localhost:5000/api/query-products", {
+      const response = await fetch("https://product-verification-system.onrender.com/api/query-products", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
