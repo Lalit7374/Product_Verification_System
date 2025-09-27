@@ -30,7 +30,7 @@ export default function ConsumerHome() {
   useEffect(() => {
     const fetchConsumerInfo = async () => {
       try {
-        const response = await fetch("http://localhost:5000/api/consumer/info");
+        const response = await fetch("https://product-verification-system.onrender.com/api/consumer/info");
         const data = await response.json();
         setConsumerInfo(data);
       } catch (error) {
