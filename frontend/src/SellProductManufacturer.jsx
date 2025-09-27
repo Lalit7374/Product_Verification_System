@@ -252,7 +252,7 @@ const SellProductManufacturer = () => {
     }
 
     try {
-      const response = await axios.post('http://localhost:5000/api/sell-product', {
+      const response = await axios.post('https://product-verification-system.onrender.com/api/sell-product', {
         productSN,
         sellerCode
       });
