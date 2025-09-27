@@ -319,7 +319,7 @@ const VerifyProduct = () => {
     }
 
     try {
-      const response = await axios.post('http://localhost:5000/api/verify-product1', {
+      const response = await axios.post('https://product-verification-system.onrender.com/api/verify-product1', {
         productSN,
         consumerCode,
       });
