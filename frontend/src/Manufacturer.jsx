@@ -8,7 +8,7 @@ export default function Manufacturer() {
   useEffect(() => {
     const fetchManufacturerInfo = async () => {
       try {
-        const response = await axios.get("http://localhost:5000/api/manufacturer/info");
+        const response = await axios.get("https://product-verification-system.onrender.com/api/manufacturer/info");
         setManufacturerInfo(response.data);
       } catch (error) {
         console.error("Error fetching manufacturer info:", error);
