@@ -625,7 +625,7 @@ const AddProduct = () => {
     }
 
     try {
-      const res = await axios.post("http://localhost:5000/product-add", {
+      const res = await axios.post("https://product-verification-system.onrender.com/product-add", {
         manufacturerID,
         productName,
         productSN,
