@@ -59,7 +59,7 @@ const Seller = () => {
 
   useEffect(() => {
     // Fetch products from backend (MongoDB)
-    fetch("http://localhost:5000/api/products-for-sale")
+    fetch("https://product-verification-system.onrender.com/api/products-for-sale")
       .then((res) => res.json())
       .then((data) => setProducts(data))
       .catch((err) => console.error("Error fetching products:", err));
