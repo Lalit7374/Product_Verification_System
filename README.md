@@ -37,9 +37,9 @@ The **Product Verification System** allows users to:
 ---
 
 ## ⚙️ System Architecture  
-
 flowchart TD
-A[React Frontend] -->|Fetch API| B[Express Backend]
+
+A [React Frontend] -->|Fetch API| B[Express Backend]
 B -->|Mongoose| C[(MongoDB Atlas)]
 B --> D[Authentication / Routes]
 A --> E[User Interface: Login, Register, Verify Product]
