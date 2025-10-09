@@ -53,6 +53,37 @@ This project demonstrates:
 
 ---
 
+## 📂 Folder Structure
+
+Product-Verification-System/
+├── backend/
+│ ├── models/
+│ ├── routes/
+│ ├── server.js
+│ └── .env
+├── frontend/
+│ ├── src/
+│ │ ├── components/
+│ │ ├── pages/
+│ │ └── App.jsx
+│ ├── public/
+│ ├── package.json
+│ └── static.json
+└── README.md
+
+
+## 🚀 Setup Instructions
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/Lalit7374/Product-Verification-System.git
+cd Product-Verification-System
+
+cd backend
+npm install
+npm start
+
+
 ## ⚙️ System Architecture
 
 ```mermaid
@@ -61,3 +92,6 @@ flowchart TD
     B -->|Mongoose| C[(MongoDB Atlas)]
     B --> D[Authentication / Routes]
     A --> E[User Interface: Login, Register, Verify Product]
+
+
+
