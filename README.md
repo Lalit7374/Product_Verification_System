@@ -51,6 +51,16 @@ This project demonstrates:
 | Version Control | Git & GitHub                     |
 
 ---
+## 🖼️ Project Screenshots
+
+### 🏠 Home / Verification Page
+![Home Page Screenshot](assets/home.png)
+
+### 🧍 Register Page
+![Register Page Screenshot](assets/register.png)
+
+### 🔑 Login Page
+![Login Page Screenshot](assets/login.png)
 
 
 ## ⚙️ System Architecture
