@@ -404,7 +404,7 @@ app.post("/user/login", async (req, res) => {
 });
 
 // ➕ Add Product
-app.post("/product-add", async (req, res) => {
+app.post("/product-add1", async (req, res) => {
   try {
     const { productSN, productName, productBrand, productPrice, manufacturerID } = req.body;
     const exists = await Product.findOne({ productId: productSN });
