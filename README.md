@@ -72,18 +72,6 @@ Product-Verification-System/
 └── README.md
 
 
-## 🚀 Setup Instructions
-
-### 1️⃣ Clone Repository
-```bash
-git clone https://github.com/Lalit7374/Product-Verification-System.git
-cd Product-Verification-System
-
-cd backend
-npm install
-npm start
-
-
 ## ⚙️ System Architecture
 
 ```mermaid
