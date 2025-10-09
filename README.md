@@ -8,8 +8,7 @@ Built with **React, Node.js, Express, MongoDB**, and deployed on **Render**.
 ---
 
 ## 🌐 Live Demo  
-🚀 **Frontend:** [https://product-verification-system-x6qg.onrender.com](https://product-verification-system-x6qg.onrender.com)  
-⚙️ **Backend API:** [https://product-verification-system.onrender.com](https://product-verification-system.onrender.com)
+🚀 **LIVE:** [https://product-verification-system-x6qg.onrender.com](https://product-verification-system-x6qg.onrender.com)  
 
 ---
 
