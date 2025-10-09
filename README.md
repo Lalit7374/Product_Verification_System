@@ -53,24 +53,6 @@ This project demonstrates:
 
 ---
 
-## 📂 Folder Structure
-
-Product-Verification-System/
-├── backend/
-│ ├── models/
-│ ├── routes/
-│ ├── server.js
-│ └── .env
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ └── App.jsx
-│ ├── public/
-│ ├── package.json
-│ └── static.json
-└── README.md
-
 
 ## ⚙️ System Architecture
 
