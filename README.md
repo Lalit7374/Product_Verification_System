@@ -10,8 +10,7 @@ Built with modern technologies like **React, Node.js, Express, and MongoDB Atlas
 
 ## 🌐 Live Demo
 
-- 🚀 **LIVE Frontend:** [https://product-verification-system-x6qg.onrender.com](https://product-verification-system-x6qg.onrender.com)  
-- ⚙️ **Backend API:** [https://product-verification-system.onrender.com](https://product-verification-system.onrender.com)
+- 🚀 **LIVE LINK:** [https://product-verification-system-x6qg.onrender.com](https://product-verification-system-x6qg.onrender.com)  
 
 ---
 
