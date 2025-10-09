@@ -54,15 +54,15 @@ This project demonstrates:
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home / Verification Page
-![Home Page Screenshot]<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/79db3f51-26c0-49b5-a3c0-38429735bfba" />
+<img width="1918" height="870" alt="image" src="https://github.com/user-attachments/assets/79db3f51-26c0-49b5-a3c0-38429735bfba" />
 
 
 ### 🧍 Register Page
-![Register Page Screenshot]<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/155f896a-4461-42eb-ae2d-7592a3ba42d0" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/155f896a-4461-42eb-ae2d-7592a3ba42d0" />
 
 
 ### 🔑 Login Page
-![Login Page Screenshot]<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/50ce7307-a617-4eb4-9229-ceae5c0240f3" />
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/50ce7307-a617-4eb4-9229-ceae5c0240f3" />
 
 
 
