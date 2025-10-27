@@ -54,7 +54,9 @@ This project demonstrates:
 ## 🖼️ Project Screenshots
 
 ### 🏠 Home / Verification Page
-<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/d5e5aa9f-bf92-43bb-a603-601a177aa9a2" />
+
+<img width="1918" height="867" alt="image" src="https://github.com/user-attachments/assets/fd5a4ccb-ccc2-4655-a770-e35af89555e2" />
+
 
 
 
